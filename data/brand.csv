@@ -1,0 +1,115 @@
+﻿brand_id,name,company,facility,research,is_recall,recipe,foundation,recall,image_url
+1,ANF,"Advanced Nutrition Formula의 약자 인  ANF는 1970년 중반 건사료 ANF 사료를 런칭했고, 현재까지 전 세계 20여국에 수출되어 있습니다.  ANF, ORGANIC, MINIO 등 다양한 브랜드를 소유하고 있습니다.","자체 공장은 없으며, OEM 생산 방식입니다.",자체 연구시설을 보유하고 있습니다.,NO,회사 자체 레서피를 보유하고 있습니다.,1970년 중반,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/1-%EB%A1%9C%EA%B3%A0.png
+5,GO!,"GO!는 Petcurean Pet Nutrition 회사 소유의 브랜드입니다. 1999년 설립되었고 Go!,NOW 등의 브랜드를 보유하고 있습니다","자세 생산 시설을 가지고 있습니다. (Canada, Ontari and USA, NEW Jeresy )","자체 연구시설을 보유하고 있습니다.
+ (Dr. Jennifer Adolphe,PhD Team) ",YES,회사 자체 레서피를 보유하고 있습니다.,1999년,2003년 간부전 및 간 질환을 일으키는 물질이 발견돼서 리콜 진행.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/5-%EB%A1%9C%EA%B3%A0.png
+124,K9 Natural,K9 Natural은 동결건조 방식으로 펫푸드를 생산하는 회사입니다. Feline Natural 브랜드를 소유하고 있습니다.,"자체 생산 시설을 가지고 있습니다. (Hawkes Bay, New Zealand )","자체 연구시설을 보유하고 있습니다.
+(Massey University research team)",NO,회사 자체 레시피를 가지고 있습니다.,2006년,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/124-%EB%A1%9C%EA%B3%A0.png
+126,Taste of the wild(TOW),"Taste of the wild(TOW)는 Diamond Pet Foods회사의 브랜드이며 TOW, DIAMOND FOOD 등을 보유하고 있습니다. 1970년에 설립되었으며 미국 전역의 5개의 자체 공장을 보유하고 있습니다.","자체 생산 시설을 가지고 있습니다. (USA, northern&central California, Missouri, Arkansas, South Carolina )",자체 연구시설을 보유하고 있습니다. (ON-SITE PRODUCT TESTING),YES,회사 자체 레서피를 보유하고 있습니다.,알 수 없습니다.,2012년 5월 살모넬라균에 의해서 리콜 진행.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/126-%EB%A1%9C%EA%B3%A0.png
+8,NOW,"NOW FRESH DOG FOOD는 Petcurean Pet Nutrition 회사 소유의 브랜드입니다. 1999년 설립되었고 now, go 등의 브랜드를 보유하고 있습니다.","자체 생산 시설을 가지고 있습니다. (Canada, Ontari and USA, NEW Jeresy )","자체 연구시설을 보유하고 있습니다.
+(Dr. Jennifer Adolphe,PhD Team)",NO,회사 자체 레서피를 보유하고 있습니다.,1999년,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/8-%EB%A1%9C%EA%B3%A0.png
+12,Natural Balance,"Natural Balance는 1989년 Dick Van Patten이 설립했으며 2013년 Big Heart Pet Brands에 인수되었습니다. LID 제품을 처음으로 출시하였고, Buy With Cofidence같은 소비자 품질관리 서비스도 제공하고 있습니다.",알 수 없습니다.,"자체 연구시설을 보유하고 있습니다.
+ (Jennifer Freeman, Master of Science in Animal Nutrition & Natural Balance Veterinary Technician)",YES,회사 자체 레서피를 보유하고 있습니다.,1989년,"1. 2007년 3월 멜라민에 의해서 리콜 진행.
+2. 2007년 7월 ofbotulinum에 의해서 리콜 진행.
+3. 2010년 6월 살모넬라균에 의해서 리콜 진행.
+4. 2012년 5월 살모넬라균에 의해서 리콜 진행.",https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/12-%EB%A1%9C%EA%B3%A0.png
+49,로얄캐닌(Royal Canin),"Royal Canin은 Mars 회사의 브랜드이며 페디그리, 위스카스, 로얄캐닌 등을 보유하고 있습니다. 1968년 수의사인 Jean Cathary가 설립했으며 본사는 프랑스에 있습니다.","자세 생산 시설을 가지고 있습니다. (USA, Missouri, South Dakota and Canada etc.)",자체 연구시설을 보유하고 있습니다. (Head office in France),YES,회사 자체 레서피를 보유하고 있습니다.,1968년,"1. 2006년 2월 비타민 D3가 과다 발견되어서 리콜 진행.
+2. 2007년 4월 멜라닌에 의해서 리콜 진행.
+3. 2007년 5월 멜라닌에 의해서 리콜 진행.",https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/49-%EB%A1%9C%EA%B3%A0.png
+63,BLACKWOOD(블랙우드),BLACK WOOD는 Robert Golladay와 그의 아들 Jim이 20년 전 오하이오에서 수작업 생산으로 시작했습니다. 현재도 여전히 가족 소유의 시설로 오하이오 자체공장에서 생산하고 있습니다.,"자체 생산 시설을 가지고 있습니다. (USA, Lisbon, Ohio )","자체 연구시설을 보유하고 있습니다.
+ (Dally Diet Project)",NO,회사 자체 레서피를 보유하고 있습니다.,1998년,리콜 사례가 없습니다.,
+75,아미오,아미오는 풀무원 소유의 브랜드로  2013년 8월에 런칭을 했습니다. 주식 및 간식 30여종을 판매하고 있습니다. ,풀무원 관리하 OEM 방식으로 생산합니다.,"제휴 연구시설을 보유하고 있습니다.
+(Healthy food science lab in Japan)",NO,풀무원 자체 레서피를 보유하고 있습니다.,2013년 8월,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/75-%EB%A1%9C%EA%B3%A0.png
+78,아카나,"아카나는 Champion Petfoods 회사의 브랜드이며 1992년 캐나다에서 시작됐습니다. 아카나, 오리젠 두개의 브랜드를 소유하고 있으며 자체 생산시설과 연구시설을 가지고 있습니다.
+","자체 생산 시설(champion petfoods)을 가지고 있습니다.
+(9503 90 Ave, Morinville, AB T8R 1K7 캐나다, Champion Petfoods NorthStar® Kitchens)","자체 연구시설을 보유하고 있습니다.
+(BAFRINO Research and Innovation Centre)",NO,회사 자체 레서피를 보유하고 있습니다.,1992년,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/78-%EB%A1%9C%EA%B3%A0.png
+95,오리젠,"오리젠은 Champion Petfoods 회사의 브랜드이며 1992년 캐나에서 시작됐습니다. 오리젠, 아카나 두개의 브랜드를 소유하고 있으며 자체 생산시설과 연구시설을 가지고 있습니다.","자체 생산 시설(champion petfoods)을 가지고 있습니다.
+(9503 90 Ave, Morinville, AB T8R 1K7 캐나다, Champion Petfoods NorthStar® Kitchens)","자체 연구시설을 보유하고 있습니다.
+(BAFRINO Research and Innovation Centre)",YES,회사 자체 레서피를 보유하고 있습니다.,2006년,2008년 11월 필수 감사 조사에 문제가 발생(호주의 오리젠 고양이 사료만 리콜 진행),https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/95-%EB%A1%9C%EA%B3%A0.png
+4,오도그,오도그는 오도그 네트윅스가 보유한 브랜드입니다. 국내 반려동물 쇼핑몰인 오도그몰에서 판매하고 있습니다.,자체 공장 보유 (김포),알 수 없습니다.,UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,2016년,알 수 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/4-%EB%A1%9C%EA%B3%A0.png
+103,웰츠,웰츠는 대한사료 소유 브랜드입니다. 이리온 동물병원에서 개발한 펫푸드이며 2016년 설립되었습니다.,"자체 생산시설을 보유하고 있습니다. (대한사료, 인천공장)","자체 연구시설을 보유하고 있습니다.
+(이리온 동물병원, 대한사료 연구팀) ",UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,2016년,알 수 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/103-%EB%A1%9C%EA%B3%A0.png
+104,위시본,위시본은 뉴질랜드에 본사를 두고 있으며 ADDICTION Pet Food 소유의 브랜드입니다.,"자체 생산 시설을 가지고 있습니다.    (240 Jellicoe Street Te Puke, New Zealand)",자체 연구시설을 보유하고 있습니다.,UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,2002년,알 수 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/104-%EB%A1%9C%EA%B3%A0..png
+14,네이처스버라이어티,"네이처스버라이어티는 Instinct, Prairie, SweetSports등의 브랜드를 소유하고 있으며 2001년에 설립했습니다. 또한, 2016년 5월 Agrolimen 회사에 브랜드가 인수되어서 현재는 Agrolimen 소유의 브랜드입니다.","자체 생산 시설을 가지고 있습니다.    (in Lincoln, Nebraska. USA)","자체 연구시설을 보유하고 있습니다.
+(PhD Susan G. Wynn, Dr. Lea Stogdale team)",YES,회사 자체 레서피를 보유하고 있습니다.,2001년,"1. 2010년 2월 살모넬라균에 의해서 리콜 진행.
+2. 2013년 2월  Foreign body/choking hazard의 이유로 리콜 진행.
+3. 2015년 7월 살모넬라균에 의해서 리콜진행.
+4. 2016년 4월 살모넬라균에 의해서 리콜진행.",https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/14-%EB%A1%9C%EA%B3%A0.png
+81,알포,"알포는 1936년 Robert Hunsicker에 의해 설립되었으며, 이후 네슬레 퓨리나에 인수된 브랜드입니다. 1995년 한국시장에 들어왔습니다.","자체 생산 시설을 가지고 있습니다.    (Nestle, PURINA Factory)","자체 연구시설을 보유하고 있습니다.
+(Product Technology Centre, St Louis, USA)",YES,회사 자체 레서피를 보유하고 있습니다.,1936년,2007년 멜라민을 함유한 밀글루텐이 발견되어서 리콜 진행.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/81-%EB%A1%9C%EA%B3%A0.png
+139,퓨리나원,퓨리나원은 네슬레 퓨리나가 보유 한 브랜드이며 1986년에 탄생되었습니다.,"자체 생산 시설을 가지고 있습니다.    (Nestle, PURINA Factory)","자체 연구시설을 보유하고 있습니다.
+(Product Technology Centre, St Louis, USA)",YES,회사 자체 레서피를 보유하고 있습니다.,1986년,"PURINA 전체 브랜드의 리콜 현황입니다.
+1. 2011년 6월 살모넬라균에 의해서 리콜 진행.
+2. 2011년 7월 살모넬라균에 의해서 리콜 진행.
+3. 2012년 5월 낮은 티아민 수치로 의해서 고양이 통조림만 리콜 진행.
+4. 2013년 8월 살모넬라균에 의해서 리콜 진행.  
+5. 2016년 3월 비타민과 미네랄의 부적당한 수치로 의해서 리콜 진행.",https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/139-%EB%A1%9C%EA%B3%A0.png
+24,뉴트리나,"뉴트리나는 1921년 미국의 캔자스 시티에서 설립되었고, 1945년 Cargill 그룹에 인수되었습니다.Cargill 그룹은 PURINA, 뉴트리나 건강백서 등을 보유하고 있습니다.","자체 생산 시설을 가지고 있습니다.    (충청남도 당진, 대한민국)","자체 연구시설을 보유하고 있습니다.
+(Cargill Animal Nutrition Innovation Center)",UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,1921년,알 수 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/24-%EB%A1%9C%EA%B3%A0.png
+9,뉴트리나 건강백서,뉴트리나는 건강백서는 2008년 첫 출시 되었고 Cargill 그룹의 소유의 브랜드입다. ,"자체 생산 시설을 가지고 있습니다.    (충청남도 당진, 대한민국)","자체 연구시설을 보유하고 있습니다.
+(Cargill Animal Nutrition Innovation Center)",UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,2008년,알 수 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/9-%EB%A1%9C%EA%B3%A0.png
+6,프레스카,프레스카는 2010년에 성립 된 ㈜ 미소의 습식 캔 전문 브랜드입니다.,알 수 없습니다.,알 수 없습니다.,UNKNOWN,알 수 없습니다.,알 수 없습니다.,알 수 없습니다.,
+53,포르자텐,포르자텐은 이탈리아의 SANYpet사의 Sergio Canello에 의해서 출시되었습니다. 1996년 런칭하였고 이탈리아에 본사가 있습니다.,"자체 생산 시설을 가지고 있습니다.    (Padova,Italy)","자체 연구시설을 보유하고 있습니다.
+(Sergio Canallo R&D Center)",UNKNOWN,회사 자체 레서피를 보유하고 있습니다.,1996년,알 수 없습니다.,
+115,지위픽,"지위픽은 뉴질랜드의 펫푸드 회사로, 공기 건조 방식으로 펫푸드를 제작합니다.","자세 생산 시설을 가지고 있습니다. (Mount Maunganuiy, New Zealand)","자체 연구시설을 보유하고 있습니다.
+ (Massey University in New Zealand) ",NO,회사 자체 레시피를 보유하고 있습니다.,알 수 없습니다.,리콜 사례가 없습니다.,https://s3.ap-northeast-2.amazonaws.com/banhaebucket/brands/115-%EB%A1%9C%EA%B3%A0.png
+28,닥터도비,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+40,도비,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+141,내추럴본,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+19,NEWRX,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+93,오가닉 스토리,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+62,SOFRT MADE,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+127,엑티브케어,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+147,N&D,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+151,파파펫푸드,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+154,꼬멍,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,알수없음.,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,질병유무(필수x),,,,,,
