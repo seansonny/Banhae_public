@@ -1,18 +1,18 @@
 # Banhae_public
 
-##Introductin
+## Introductin
 
 This repository is programmed for mobile RESTful API server.
 
 
 
-##About the mobile application
+## About the mobile application
 
 An Anrdoid application, Banhae provides information of dogs' feeds. Price, manufacturer, ingredients, nutrition facts and allergy information. It has released August 2017 at Play store in Korea.
 
 
 
-##Application Structure
+## Application Structure
 
 server.js - The entry point to our application. This file defines our express server and requires the routes and models used in the application.
 
